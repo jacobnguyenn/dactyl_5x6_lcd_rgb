@@ -31,8 +31,8 @@
 &kp LCTRL  &kp Z   &kp X     &kp C     &kp V   &kp B                               &kp B          &kp N   &kp M     &kp COMMA  &kp PERIOD  &kp LS(SLASH)
                    &kp LBKT  &kp RBKT                                                                     &kp PLUS  &kp EQUAL
                                        &mo 1   &kp ENTER                           &kp ENTER      &mo 2
-                                               &kp SPACE  &kp LEFT_WIN  &kp SPACE  &kp RIGHT_WIN
-                                               &kp GRAVE  &kp BSLH      &kp DEL    &kp LALT
+                                               &kp LEFT_WIN  &kp SPACE  &kp SPACE  &kp RIGHT_WIN
+                                               &kp GRAVE     &kp BSLH   &kp DEL    &kp LALT
             >;
         };
 
